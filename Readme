@@ -1,0 +1,13 @@
+vim config files
+
+Install 
+ 1 clone
+    git clone git@github.com:caoxin1988/vim_conf.git
+
+ 2 rename
+    mv vim_conf/_vimrc ~/.vimrc
+	mv -r vim_conf/_vim ~/.vim
+
+ 3 add some plugins if you get some errors
+
+ 4 enjoy it

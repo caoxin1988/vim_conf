@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/caoxin/.ssh'
+let g:netrw_dirhist_2='/home/caoxin/vim73/src'
+let g:netrw_dirhist_3='/home/caoxin/work/early_camera_tizen/BASE/kernel-adaptation-intel-automotive/drivers/staging/emgd'
+let g:netrw_dirhist_4='/home/caoxin/work/profile/ivi/kernel-x86-ivi/drivers/staging'
+let g:netrw_dirhist_5='/home/caoxin/work/emgd_drm/docs/drm_user_configs'
+let g:netrw_dirhist_6='/home/caoxin/Downloads/bootchart-0.9/examples'
+let g:netrw_dirhist_7='/home/caoxin/tmp'
