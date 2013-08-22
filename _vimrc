@@ -1,4 +1,4 @@
-syntax enable
+    syntax enable
 syntax on
 colorscheme desert
 "colorscheme darkburn
