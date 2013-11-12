@@ -9,5 +9,6 @@ Install
 	mv -r vim_conf/_vim ~/.vim
 
  3 add some plugins if you get some errors
+   git clone some plugins from github.com
 
  4 enjoy it
